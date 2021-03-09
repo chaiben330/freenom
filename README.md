@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Freenom：freenom域名自动续期</h1>
-随便修改几个字，假装一下！！！
+随便修改几个字，假装一下！！！修改项目 README.md 文件内容并提交一次，解决 Github Actions 计划任务的 Bug
 [![Build Status](https://img.shields.io/badge/build-passed-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/build-status/master)
 [![Php Version](https://img.shields.io/badge/php-%3E=7.2-brightgreen.svg?style=for-the-badge)](https://secure.php.net/)
 [![Scrutinizer Code Quality](https://img.shields.io/badge/scrutinizer-9.31-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/?branch=master)
